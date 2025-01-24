@@ -1,1 +1,1 @@
-# Prediksi_data_skicit-learn
+# Prediksi_data_Linear_Logistic
