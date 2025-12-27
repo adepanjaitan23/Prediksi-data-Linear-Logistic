@@ -54,6 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 git clone [https://github.com/username-anda/prediksi-data-linear-logistic.git](https://github.com/username-anda/prediksi-data-linear-logistic.git)
 cd prediksi-data-linear-logistic
 ```
+
 2. Jalankan Jupyter Notebook Buka terminal di dalam folder proyek, lalu ketik:
 ```bash
 jupyter notebook
