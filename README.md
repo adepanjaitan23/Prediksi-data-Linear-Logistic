@@ -35,11 +35,11 @@ Proyek ini dibangun menggunakan ekosistem Data Science Python:
 ## 📂 Susunan Proyek
 
 Struktur direktori repositori ini sangat sederhana:
-
 ```bash
 prediksi-data-linear-logistic/
 ├── prediksi Linear Logistic.ipynb  # 📓 File utama (Notebook) berisi kode & analisis
 └── README.md                       # 📄 Dokumentasi proyek ini
+```
 
 ## ⚙️ Prasyarat Instalasi
 Sebelum menjalankan notebook ini, pastikan Anda telah menginstal Python 3.x dan Jupyter Notebook (atau menggunakan Google Colab).
